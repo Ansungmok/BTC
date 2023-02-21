@@ -2,8 +2,8 @@ import pandas as pd
 import pyupbit as pb
 import numpy as np
 
-access_key='NUTCOjIcnh5q8uFFlmw415XItVxfLOmHz0OJGI9L'
-secret_key="YRk9J3hHF5ho6PH690bxwByU4T5QYp1iXmyUmQ58"
+access_key='your_access_key'
+secret_key="your_secret_key"
 
 upbit=pb.Upbit(access_key,secret_key)
 
